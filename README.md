@@ -11,6 +11,9 @@
 ✔️ Interactive and responsive visual output
 
 ⚙️ Tech Stack:
+
 Python 3.x 🐍
+
 OpenCV (Computer Vision)
+
 cvzone (Hand Tracking Module)
